@@ -1,0 +1,3 @@
+class Web10xUser < Web10xModel
+
+end
